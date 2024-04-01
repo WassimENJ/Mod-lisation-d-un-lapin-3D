@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1700355885 source:/home/wassim/SI/Lapin/Lapin.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1700417108 source:/home/wassim/SI/Choukri_Imane_Ennaji_Wassim/Lapin.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
+1700428988 source:/home/imane/Downloads/Choukri_Imane_Ennaji_Wassim/Lapin.cpp
+	<cstdio>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<cmath>
+
